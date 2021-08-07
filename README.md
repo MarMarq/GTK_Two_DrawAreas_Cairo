@@ -12,7 +12,7 @@
   
     <FONT face="Tahoma" color="blue">
 <TABLE BORDER="8" WIDTH="50%" ALIGN="CENTER" CELLPADDING="6"> 
-    <BR><CAPTION>Votação por Salas e RA</CAPTION></BR>
+    <BR><CAPTION>TESTE TABELA</CAPTION></BR>
 	<TH ALIGN="CENTER"> SALA 01</TD>
 	<TH> SALA 02 </TH>
 	<TH> SALA 03</>
